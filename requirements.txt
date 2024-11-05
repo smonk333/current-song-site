@@ -1,0 +1,13 @@
+flask
+flask-login
+flask-sqlalchemy
+flask-wtf
+flask-bootstrap
+wtforms
+flask-migrate
+flask-jwt-extended
+werkzeug>=3.0.5
+sqlalchemy
+cryptography
+requests
+dotenv
